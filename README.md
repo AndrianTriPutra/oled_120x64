@@ -9,4 +9,4 @@ example golang for oled 120x64 (0.96 inch)
 - go run . 
 
 referensi :
-github.com/mmalcek/nanohatoled
+- github.com/mmalcek/nanohatoled
