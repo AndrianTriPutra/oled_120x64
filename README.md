@@ -7,3 +7,6 @@ example golang for oled 120x64 (0.96 inch)
 - enable i2c
 - check i2cdetect
 - go run . 
+
+referensi :
+github.com/mmalcek/nanohatoled
